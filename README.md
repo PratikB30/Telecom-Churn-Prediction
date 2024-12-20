@@ -29,7 +29,13 @@ The project uses a synthetic telecom dataset with features like:
    - **Gradient Boosting**: Used to improve model performance by combining weak learners to create a robust predictive model.  
    - Optimized model performance using hyperparameter tuning.  
 4. **Evaluation**:  
-   - Evaluated the model using metrics such as accuracy, precision, recall, and F1-score.  
+   - Evaluated the model using metrics such as accuracy, precision, recall, and F1-score.
+
+## Frontend with Streamlit  
+The project leverages **Streamlit** to quickly host and showcase the front end for the application.  
+- **Streamlit Benefits**:  
+  - Rapid deployment of interactive web applications.  
+  - Seamless integration with Python scripts for real-time data processing. 
 
 ## Key Result  
 - Achieved high prediction accuracy and improved decision-making capabilities for churn management.  
